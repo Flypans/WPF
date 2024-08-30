@@ -5,8 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Tree" Height="450" Width="800">
     <Grid>
-        
+        <Label Content="Label" HorizontalAlignment="Left" Margin="78,61,0,0" VerticalAlignment="Top"/>
+        <ListBox HorizontalAlignment="Left" Height="100" Margin="138,108,0,0" VerticalAlignment="Top" Width="100"/>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="158,257,0,0" VerticalAlignment="Top"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="229,331,0,0" VerticalAlignment="Top" Width="75"/>
+
     </Grid>
 </Window>
