@@ -1,6 +1,6 @@
-#WPF Practice Repository
+# WPF Practice Repository
 
-# This repository contains various practice projects and samples for learning and mastering Windows Presentation Foundation (WPF). 
+## This repository contains various practice projects and samples for learning and mastering Windows Presentation Foundation (WPF). 
 It includes examples of data binding, control templates, animations, and more. Perfect for anyone looking to improve their WPF skills.
 
 1. Fundamentals
