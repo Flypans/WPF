@@ -8,6 +8,9 @@ It includes examples of data binding, control templates, animations, and more. P
 	- [ ] Bubbling Event
 	- [ ] Tunneling Event
 
+ 	Tree
+	- [ ] Logical Tree
+ 	- [ ] Visual Tree 
 	Property	
 	- [ ] Dependency Property
 	- [ ] Attached Property
@@ -16,7 +19,7 @@ It includes examples of data binding, control templates, animations, and more. P
 	- [ ] Resources - Style
 	- [ ] Global style setting (Themes Generic.xaml)
 	
-2. Controls and Templates
+3. Controls and Templates
 	Control
 	- [ ] Control - Slider, RepeatButton
 	- [ ] Control - RichTextBox
@@ -28,7 +31,7 @@ It includes examples of data binding, control templates, animations, and more. P
 	- [ ] Selector
 	- [ ] AccessKey
 	
-3. Triggers and Interactivity
+4. Triggers and Interactivity
 	Trigger
 	- [ ] Property Trigger
 	- [ ] Event Trigger
@@ -38,16 +41,16 @@ It includes examples of data binding, control templates, animations, and more. P
 	- [ ] IsDefault
 	- [ ] IsCancel
 		
-4. Layout and Navigation
+5. Layout and Navigation
 	- [ ] Layout - Grid
 	- [ ] ScrollBar Customization
 	
-5. Data and Binding
+6. Data and Binding
 	- [ ] Show View With Dependency Injection & Receive Parameter
 	- [ ] Activating open Views
 	- [ ] LazyTreeNode
 	- [ ] Enabling ViewModel property auto-completion in XAML
 	
-6. Advanced Topics
+7. Advanced Topics
 	- [ ] Chart - OxyPlot
 	- [ ] Using Window Lifecycle in ViewModel
