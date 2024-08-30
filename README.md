@@ -5,8 +5,8 @@ It includes examples of data binding, control templates, animations, and more. P
 
 1. Fundamentals
 	Event
-	- [ ] Bubbling Event
-	- [ ] Tunneling Event
+	- [*] Bubbling Event
+	- [*] Tunneling Event
 
  	Tree
 	- [ ] Logical Tree
