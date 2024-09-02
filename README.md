@@ -10,7 +10,8 @@ It includes examples of data binding, control templates, animations, and more. P
 
  	Tree
 	- [x] Logical Tree
- 	- [x] Visual Tree 
+ 	- [x] Visual Tree
+
 	Property	
 	- [ ] Dependency Property
 	- [ ] Attached Property
