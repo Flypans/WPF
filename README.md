@@ -5,12 +5,12 @@ It includes examples of data binding, control templates, animations, and more. P
 
 1. Fundamentals
 	Event
-	- [*] Bubbling Event
-	- [*] Tunneling Event
+	- [x] Bubbling Event
+	- [x] Tunneling Event
 
  	Tree
-	- [ ] Logical Tree
- 	- [ ] Visual Tree 
+	- [x] Logical Tree
+ 	- [x] Visual Tree 
 	Property	
 	- [ ] Dependency Property
 	- [ ] Attached Property
