@@ -8,7 +8,7 @@ namespace DataTemplate
 {
 
 
-    public class Students
+    public class Players
     {
         public string Name { get; set; } = "";
         public string Birthday { get; set; } = "";
@@ -17,17 +17,17 @@ namespace DataTemplate
 
         public override string ToString()
         {
-            return $"Name : {Name}, Birthday : {Birthday}, School: {Team}, MarketPrice : {Salary}";
+            return $"Name : {Name}, Birthday : {Birthday}, School: {Team}, Salary : {Salary}";
         }
 
-        public static List<Students> GetStudents()
+        public static List<Players> GetPlayers()
         {
-            return new List<Students>
+            return new List<Players>
             {
-                new Students{Name="Marco Reus", Birthday="19890531", Salary="1200", Team="BVB"},
-                new Students { Name = "Niklas Süle", Birthday = "19950930", Salary = "1000", Team = "BVB" },
-                new Students { Name = "Emre Can", Birthday = "19940112", Salary = "900", Team = "BVB" },
-                new Students { Name = "Mats Hummels", Birthday = "19881216", Salary = "800", Team = "BVB" },
+                new Players{Name="Marco Reus", Birthday="19890531", Salary="1200", Team="BVB"},
+                new Players { Name = "Niklas Süle", Birthday = "19950930", Salary = "1000", Team = "BVB" },
+                new Players { Name = "Emre Can", Birthday = "19940112", Salary = "900", Team = "BVB" },
+                new Players { Name = "Mats Hummels", Birthday = "19881216", Salary = "800", Team = "BVB" },
             };
         }
     }
